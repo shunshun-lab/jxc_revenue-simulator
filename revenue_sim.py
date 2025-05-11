@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-st.set_page_config(page_title="電子書籍収益シミュレーター", layout="centered")
-st.title("📚 電子書籍シリーズ：累計収益シミュレーター")
+st.set_page_config(page_title="JXC電子書籍収益シミュレーター", layout="centered")
+st.title("📚 JXC：電子出版累計収益シミュレーター")
 
 with st.sidebar:
     st.header("▶ 変数を入力")
